@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/baad9a3a-6efa-46fc-920f-e672c11ac339" alt="Logo of Anurkit - Stylized letters 'AK', with the motto Elevate quality. Eliminate waste. Accelerate delivery." style="width: 600px; display: block; margin: 0 auto;"/>
-
-
+<img src="https://github.com/user-attachments/assets/74888570-4a38-4060-9ed9-bc9bc87a9e59" alt="Logo of Anurkit - Stylized letters 'AK', with the motto Elevate quality. Eliminate waste. Accelerate delivery." style="width: 600px; display: block; margin: 0 auto;"/>
 
 👋 Hi, I’m a freelance software and business consultant with 14+ years’ experience. I ensure that your automated tests and processes are set up to deliver maximal business value.
 
