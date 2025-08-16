@@ -6,4 +6,4 @@
 
 You can find an overview of my offerings [here](https://anukrit.de). Send me an [email](mailto:ak@anukrit.de) to work with me. 
 
-Or you can head over to my [personal website](https://anupam.de/about).  
+Or you can head over to my [personal website](https://anupam.de/about/about.html).  
